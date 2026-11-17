@@ -24,4 +24,4 @@ Donor-level pseudobulk (mean observed normalised abundance per donor x cell type
 Planted effects are compared with results (direction recovered, FDR < 0.05).
 
 ## Reference
-Liu et al. (2022), Nature Communications, DOI: 10.1038/s41467-022-33338-0.
+Davis, S., Scott, C., Ansorge, O., & Fischer, R. (2019). Development of a Sensitive, Scalable Method for Spatial, Cell-Type-Resolved Proteomics of the Human Brain. Journal of Proteome Research, 18(4), 1787–1795. https://doi.org/10.1021/acs.jproteome.8b00981.
